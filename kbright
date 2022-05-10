@@ -1,4 +1,4 @@
-#tested on a pw3(not for now)(doesn't work, idk why)
+#tested on a pw3(not for now)(doesn't work, idk why)(I got the download wrong lmao)
 max=$( cat /sys/class/backlight/max77696-bl/max_brightness )
 echo Set brightness between 0 and $max Keep it at lower than a third that is where the gui makes you go as a limit
 read bright
