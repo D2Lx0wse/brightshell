@@ -1,0 +1,4 @@
+max=$( cat /sys/class/backlight/intel_backlight/max_brightness )
+echo Set brightness between 0 and $max 
+read bright
+echo $bright > /sys/class/backlight/intel_backlight/brightness
