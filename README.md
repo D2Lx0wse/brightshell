@@ -1,6 +1,9 @@
 # brightshell
 Bright shell is a collection of tools to change brightness on portable Linux devices
-
+# Features
+150 times more precise than the kindle slider!
+Multiple times more precise than the laptop button that changes brightness!
+# Legacy tools
 kbright is for the kindle pw3 and needs testing
 ibright is for Intel gpus, doesn't need testing
 
@@ -11,5 +14,5 @@ Run ```chmod+x ./bright.sh``` to give the script executable perms
 Script must be run as root or with sudo
 
 
-#Misc
+# Misc
 Unfortunately I pressed enter so the repo description is "bright s"
