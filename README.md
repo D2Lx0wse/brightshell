@@ -2,9 +2,11 @@
 Bright shell is a collection of tools to change brightness on portable Linux devices
 # Features
 150 times more precise than the kindle slider!
+
 Multiple times more precise than the laptop button that changes brightness!
 # Legacy tools
 kbright is for the kindle pw3 and needs testing
+
 ibright is for Intel gpus, doesn't need testing
 
 Both kbright and ibright are now legacy and should only be used in case of bright.sh failing
